@@ -1,6 +1,7 @@
 # i3Config
-i3 config files (private)
+My i3 config files
 
+Feel free to use them in any way!
 # Prequisites:
   1. must have i3 installed (for dependencies):
     Run:
