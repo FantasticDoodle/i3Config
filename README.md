@@ -1,5 +1,5 @@
 # i3Config
-My i3 config files
+My i3wm config files
 
 Feel free to use them in any way!
 # Prequisites:
@@ -33,5 +33,11 @@ Feel free to use them in any way!
   ```
   pasting all the files in and running:
     ```
-    sh (filename).sh
+    sudo sh (filename).sh
     ```
+
+
+# Installation
+
+## With everything installed, there really isnt much to do.
+### you need to know how to use i3wm. if you dont check out [This Series](https://www.youtube.com/watch?v=j1I63wGcvU4&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf)
