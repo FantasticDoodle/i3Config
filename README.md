@@ -17,7 +17,7 @@ i3 config files (private)
   3. remove the ppa:
      ```
      sudo add-apt-repository --remove ppa:regolith-linux/release
-     
+     ```
   4. install rofi:
     ```
     sudo apt-get install rofi
