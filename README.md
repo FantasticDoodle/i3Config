@@ -25,3 +25,12 @@ i3 config files (private)
     
   5. download a wallpaper (lmao):
      use trusted source such as r/wallpapers or KDE wallpaper getter (images can be found at /home/user/.local/share/wallpapers)
+     
+## Or alternitavley copy the contents of the Prequisites script file in the code section and put that in a file by running:
+  ```
+  nano (filename).sh
+  ```
+  pasting all the files in and running:
+    ```
+    sh (filename).sh
+    ```
