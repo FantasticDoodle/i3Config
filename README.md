@@ -35,7 +35,7 @@ Feel free to use them in any way!
     ```
     sudo sh (filename).sh
     ```
-### you need to know how to use i3wm. if you dont check out [This Series](https://www.youtube.com/watch?v=j1I63wGcvU4&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf)
+### you need to know how to use i3wm. if you don't, check out [This Series](https://www.youtube.com/watch?v=j1I63wGcvU4&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf).
 
 
 # Installation
