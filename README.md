@@ -8,7 +8,9 @@ i3 config files (private)
     
   2. install i3-gaps:
     
-    run: `
+    run: 
+    '''
     sudo add-apt-repository ppa:regolith-linux/release
     sudo apt update
-    sudo apt install i3-gaps`
+    sudo apt install i3-gaps
+    '''
