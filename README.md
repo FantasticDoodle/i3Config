@@ -42,7 +42,8 @@ Feel free to use them in any way!
 
 ## With everything installed, there really isnt much to do.
 
-1. edit the i3wm config which is located at ```/home/your-username/.config/i3/config```, contrary to what the series says. I also have an i3 cheatsheet uploaded to this repo.
+1. **Remember to copy the config file to another location, just incase something doesn't work. for example:** ```sudo cp (config file) /home/your-username/```
+
 2. copy all the Contents of the file ```i3config Text```, located in the code section of this repo.
 
-2.5. **Remember to copy the config file to another location, just incase something doesn't work. for example:** ```sudo cp (config file) /home/your-username/```
+3. edit the i3wm config which is located at ```/home/your-username/.config/i3/config```. I reccomend you use ```gedit``` for this part because it is easier to select large amounts of files and work with them if you use ```gedit```. to install ```gedit``` run ```sudo apt-get install gedit```.
