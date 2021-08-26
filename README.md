@@ -21,6 +21,7 @@ i3 config files (private)
   4. install rofi:
     ```
     sudo apt-get install rofi
+    ```
     
   5. download a wallpaper (lmao):
      use trusted source such as r/wallpapers or KDE wallpaper getter (images can be found at /home/user/.local/share/wallpapers)
