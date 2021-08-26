@@ -1,0 +1,24 @@
+I3 cheatsheet
+
+
+Resize mode: Mod + R – use arrow keys
+
+Switch Tiling Mode: Mod + E (split) Mod + W (Tabbed) Mod  + S (Stacking)
+
+Search For Programs: Mod + D (you can also search)
+
+Move Windows – Mod + Shift + Arrow key of direction
+
+Vertical Tiling – Mod + V
+
+Open Terminal – Mod + Enter
+
+Change which window has focus – Mod + Arrow Key
+
+Switch workspace – Mod + Key Number
+
+Switch workspace of a window – Mod + Shift + Number of workspace
+
+Restart i3 – Mod + Shift + R
+
+Log out/end session – Mod + Shift + E
