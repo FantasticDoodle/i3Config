@@ -45,4 +45,4 @@ Feel free to use them in any way!
 1. edit the i3wm config which is located at ```/home/your-username/.config/i3/config```, contrary to what the series says. I also have an i3 cheatsheet uploaded to this repo.
 2. copy all the Contents of the file ```i3config Text```, located in the code section of this repo.
 
-2.5. *COPY THE CONFIG FILE TO ANOTHER LOCATION (such as /home) JUST INCASE SOMETHING DOESN'T WORK. ```sudo cp (config file) /home```
+2.5. *COPY THE CONFIG FILE TO ANOTHER LOCATION (such as /home) JUST INCASE SOMETHING DOESN'T WORK.* ```sudo cp (config file) /home```
