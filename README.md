@@ -41,3 +41,5 @@ Feel free to use them in any way!
 
 ## With everything installed, there really isnt much to do.
 ### you need to know how to use i3wm. if you dont check out [This Series](https://www.youtube.com/watch?v=j1I63wGcvU4&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf)
+
+1. edit the i3wm config which is located at ```/home/your-username/.config/i3/config```
