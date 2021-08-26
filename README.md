@@ -15,5 +15,5 @@ i3 config files (private)
     sudo apt install i3-gaps
     
   3. remove the ppa:
-     
-     `sudo add-apt-repository ppa:regolith-linux/release
+     ```
+     sudo add-apt-repository ppa:regolith-linux/release
