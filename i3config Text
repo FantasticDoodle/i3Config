@@ -199,9 +199,8 @@ colors {
 
 }
 
-gaps outer 10
+gaps outer 15
 gaps inner 10
-gaps top  10
 
 
 client.focused          #87cefa #87cefa #ffffff #2e9ef4   #87cefa
