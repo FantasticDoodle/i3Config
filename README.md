@@ -51,3 +51,6 @@ Feel free to use them in any way!
 4. run ```gedit /home/your-username/.config/i3/config```. then select every line of code in the file and delete it. then paste in all the copied lines of code from the ```i3config Text``` file.
 
 5. you should be done, 
+
+## Auto script:
+  You can use the auto script to automatically download and install all of the dependencies and configure the configuration. head over to the [releases](
