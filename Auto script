@@ -1,0 +1,12 @@
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt-get install i3 -y
+sudo add-apt-repository ppa:regolith-linux/release -y
+sudo apt update -y
+sudo apt install i3-gaps -y
+sudo add-apt-repository --remove ppa:regolith-linux/release -y
+sudo apt-get install rofi -y
+sudo apt-get install rename -y
+sudo mv /home/(user)/.config/i3/config /home/(user)
+wget https://raw.githubusercontent.com/FantasticDoodle/i3Config/main/i3config_Text
+sudo mv i3config_text /home/(user)/.config/i3/config
