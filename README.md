@@ -46,7 +46,7 @@ Feel free to use them in any way!
 
 2. copy all the Contents of the file ```i3config Text```, located in the code section of this repo.
 
-3. edit the i3wm config which is located at ```/home/your-username/.config/i3/config```. I recommend you use ```vim, Gedit, notepadqq, or nano```. all of these can be installed by their respective binaries in ubuntu. for example: ```sudo apt install notepadqq```. Notepaddqq or Gedit are probably the best choice for edits like these.
+3. edit the i3wm config which is located at ```/home/your-username/.config/i3/config```. I recommend you use ```vim, Gedit, notepadqq, or nano```. all of these can be installed by their respective binaries in ubuntu. for example: ```sudo apt install notepadqq```. Notepadqq or Gedit are probably the best choice for edits like these.
 
 4. run ```gedit /home/your-username/.config/i3/config```. then select every line of code in the file and delete it. then paste in all the copied lines of code from the ```i3config Text``` file.
 
