@@ -191,7 +191,8 @@ bar {
     strip_workspace_numbers yes
     position top
 colors {
-     focused_workspace #696969 #343434 #808080
+     focused_workspace #951e64 #211642 #bcd4e6
+     inactive_workspace #401f75 #000039 #bcd4e6
     
 }
 
