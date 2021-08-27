@@ -27,7 +27,8 @@ Feel free to use them in any way!
   5. download a wallpaper (lmao):
      use trusted source such as r/wallpapers or KDE wallpaper getter (images can be found at /home/user/.local/share/wallpapers)
      
-## Or alternitavley copy the contents of the Prequisites file in the code section and put that in a file by running:
+## Or alternitavley: 
+copy the contents of the Prequisites file, located in ```github.com/FantasticDoodle/i3Config/Scripts/Prequisites``` and put that in a file by running:
   ```
   nano (filename).sh
   ```
