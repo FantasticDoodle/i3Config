@@ -29,6 +29,13 @@ Feel free to use them in any way!
      
   6. Compton:
     ```sudo apt install compton```
+    
+  7. pywal:
+    ```
+    sudo apt install python3
+    sudo apt install python3-pip
+    pip3 install pywal
+    ```
 ## Or alternitavley: 
 copy the contents of the Prequisites file, located in ```github.com/FantasticDoodle/i3Config/Scripts/Prequisites``` and put that in a file by running:
   ```
