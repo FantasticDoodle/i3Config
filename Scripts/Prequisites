@@ -4,3 +4,4 @@ sudo apt update -y
 sudo apt install i3-gaps -y
 sudo add-apt-repository --remove ppa:regolith-linux/release -y
 sudo apt-get install rofi -y
+sudo apt-get install compton -y
