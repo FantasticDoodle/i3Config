@@ -208,3 +208,6 @@ client.focused          #87cefa #87cefa #ffffff #2e9ef4   #87cefa
 client.unfocused        #483d8b #222222 #888888 #292d2e   #483d8b
 
 default_border pixel 2
+
+exec_always compton --config /home/dan/.config/compton/compton.conf
+
