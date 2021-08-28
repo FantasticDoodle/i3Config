@@ -211,3 +211,12 @@ default_border pixel 2
 
 exec_always compton --config /home/dan/.config/compton/compton.conf
 
+bindsym $mod+shift+i exec notepadqq /home/dan/.config/i3/config
+
+exec_always python3 /home/dan/.local/bin/wal -R
+
+assign [class="^Firefox$"] 2:Firefox
+
+assign [class="Terminator"] 1:Terminals
+
+assign [class="Notepadqq"] 4:Text Editor
