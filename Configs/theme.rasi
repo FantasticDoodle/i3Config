@@ -1,0 +1,9 @@
+* {
+border-color: #87cefa;
+text-color: #fe4a75;
+background-color: #1e102c;
+}
+#window {
+        border: 1;
+        padding: 5;
+}
