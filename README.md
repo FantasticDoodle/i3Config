@@ -74,5 +74,7 @@ copy the contents of the Prequisites file, located in ```github.com/FantasticDoo
 
 ## locations
   Place config.rasi in /home/(user)/.config/rofi/
+  
   Place theme.rasi in /home/(user)/.config/rofi/themes/
+  
   Place compton.conf in /home/(user)/.config/compton
