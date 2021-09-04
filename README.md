@@ -3,54 +3,26 @@ My i3wm config files
 
 Feel free to use them in any way!
 # Prequisites:
-  1. must have i3 installed (for dependencies):
-    Run:
-    
-    sudo apt-get install i3
-    
-  2. install i3-gaps:
-    run:
-    
-    sudo add-apt-repository ppa:regolith-linux/release
-    sudo apt update
-    sudo apt install i3-gaps
-    
-  3. remove the ppa:
-     ```
-     sudo add-apt-repository --remove ppa:regolith-linux/release
-     ```
-  4. install rofi:
+  1. install i3-gaps:
     ```
-    sudo apt-get install rofi
+    pacman -S i3-gaps
     ```
-    
-  5. download a wallpaper (lmao):
-     use trusted source such as r/wallpapers or KDE wallpaper getter (images can be found at /home/user/.local/share/wallpapers)
+  2. install rofi:
+    ```
+    pacman -S rofi
+    ```
      
-  6. Compton:
-    ```sudo apt install compton```
-    
-  7. pywal:
-    
-    sudo apt install python3
-    sudo apt install python3-pip
-    pip3 install pywal
-    
-  8. notepadqq:
+  3. picom:
+    ```
+    pacman -S picom
+    ```
+  4. notepadqq (optional):
       ```
-      sudo apt install notepadqq
+      pacman -S notepadqq
       ```
     
-## Or alternitavley: 
-copy the contents of the Prequisites file, located in ```github.com/FantasticDoodle/i3Config/Scripts/Prequisites``` and put that in a file by running:
-  ```
-  nano (filename).sh
-  ```
-  pasting all the files in and running:
     ```
-    sudo sh (filename).sh
-    ```
-### you need to know how to use i3wm. if you don't, check out [This Series](https://www.youtube.com/watch?v=j1I63wGcvU4&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf).
+### (note) you need to know how to use i3wm. if you don't, check out [This Series](https://www.youtube.com/watch?v=j1I63wGcvU4&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf).
 
 
 # Installation
@@ -59,22 +31,17 @@ copy the contents of the Prequisites file, located in ```github.com/FantasticDoo
 
 1. **Remember to copy the config file to another location, just incase something doesn't work. for example:** ```sudo cp (config file) /home/your-username/```
 
-2. copy all the Contents of the file ```i3config Text```, located in the code section of this repo.
+2. copy all the Contents of the file ```i3/config```, located in the code section of this repo.
 
-3. edit the i3wm config which is located at ```/home/your-username/.config/i3/config```. I recommend you use ```vim, Gedit, notepadqq, or nano```. all of these can be installed by their respective binaries in ubuntu. for example: ```sudo apt install notepadqq```. Notepadqq or Gedit are probably the best choice for edits like these.
+3. edit the i3wm config which is located at ```/home/your-username/.config/i3/config```. I recommend you use ```vim, Gedit, notepadqq, or nano```. all of these can be installed by their respective binaries in arch. for example: ```pacman -S notepadqq```. Notepadqq or vim are probably the best choice for edits like these.
 
-4. run ```gedit /home/your-username/.config/i3/config```. then select every line of code in the file and delete it. then paste in all the copied lines of code from the ```i3config Text``` file.
+4. run ```notepadqq /home/your-username/.config/i3/config```. then select every line of code in the file and delete it. then paste in all the copied lines of code from the ```i3/config``` file.
 
 5. you should be done, 
-
-## Auto script:       (BETA)
-  You can use the auto script to automatically download and install all of the dependencies and configure the configuration. you can find the script in the code section.
-  ### usage:
-  open the script in the ```code``` section. it **will** require minimal editing. and copy all the contents. open a terminal and type in ```(gedit/nano) instscript.sh```. then paste in all of the contents of the script. wherever it says ```(user)``` put in the username of your user. in my case it would be: ```dan``` in all of the places where it says ```user```. save it, and run it using ```sudo sh instscript.sh```. this will set the script on its way. sit back and wait until its done.
 
 ## locations
   Place config.rasi in /home/(user)/.config/rofi/
   
   Place theme.rasi in /home/(user)/.config/rofi/themes/
   
-  Place compton.conf in /home/(user)/.config/compton
+  Place picom.conf in /home/(user)/.config/picom
