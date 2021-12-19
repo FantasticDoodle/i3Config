@@ -1,3 +1,3 @@
 configuration {
-        theme: "~/.config/rofi/themes/theme.rasi";
+        theme: "Theme_Name";
 }
