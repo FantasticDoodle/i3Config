@@ -36,7 +36,7 @@ Feel free to use them in any way!
 
 5. you should be done with i3 configuration.
 
-6. Create the directories ```rofi``` and ```picom``` in ```~/.config```
+6. Create the directories ```rofi``` and ```picom``` in ```~/.config```, and place the respective files in there. Remember to edit the rofi theme!
 
 ## locations
   Place config.rasi in /home/(user)/.config/rofi/
