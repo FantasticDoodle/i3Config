@@ -34,7 +34,9 @@ Feel free to use them in any way!
 
 4. run ```notepadqq /home/your-username/.config/i3/config```. then select every line of code in the file and delete it. then paste in all the copied lines of code from the ```i3/config``` file.
 
-5. you should be done, 
+5. you should be done with i3 configuration.
+
+6. Create a '''rofi''' and '''picom'''
 
 ## locations
   Place config.rasi in /home/(user)/.config/rofi/
